@@ -16,7 +16,7 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 - :trophy: [![AI Certified Foundations Associate](https://img.shields.io/badge/AI_Certified_Foundations_Associate-Oracle-%23F80000.svg?style=for-the-badge)](https://www.oracle.com/)
 - :trophy: [![Data Management Certified Foundations Associate](https://img.shields.io/badge/Data_Management_Certified_Foundations_Associate-Oracle-%23F80000.svg?style=for-the-badge)](https://www.oracle.com/)
 - :trophy: [![Cloud Infrastructure Certified Foundations Associate](https://img.shields.io/badge/Cloud_Infrastructure_Certified_Foundations_Associate-Oracle-%23F80000.svg?style=for-the-badge)](https://www.oracle.com/)
-- :trophy: [![SQL and Relational Databases 101](https://img.shields.io/badge/SQL_and_Relational_Databases_101-Database-%234169E1.svg?style=for-the-badge)][(https://example.com/)](https://courses.cognitiveclass.ai/certificates/02dbdde588234df7b2f33e9796c160c0)
+- :trophy: [![SQL and Relational Databases 101](https://img.shields.io/badge/SQL_and_Relational_Databases_101-Database-%234169E1.svg?style=for-the-badge)][(https://SQL And Relational Databases 101)](https://courses.cognitiveclass.ai/certificates/02dbdde588234df7b2f33e9796c160c0)
 
 
 
