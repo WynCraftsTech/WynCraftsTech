@@ -45,7 +45,7 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/wyngodwyn13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wyngodwyn13" height="30" width="40" /></a>
-<a href="https://instagram.com/godwynnnnnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="godwynnnnnnn" height="30" width="40" /></a>
+<a href=https://www.instagram.com/godwyyynnnnnn/?fbclid=IwAR207tMbmcJwdg8VJCrwz6XVxPmy6ygOoiZONE50s0bEme5Be0QhLFquvgctarget="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="godwynnnnnnn" height="30" width="40" /></a>
 </p>
 
 
