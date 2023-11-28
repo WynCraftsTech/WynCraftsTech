@@ -9,7 +9,7 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 ## Education
 
 - **BS Information Technology**
-  - New Era University
+  - ![New Era University](path/to/new-era-university-logo.png) New Era University
   - 2021-Present
 
 ## Certification
