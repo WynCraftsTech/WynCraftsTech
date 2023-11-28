@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Godwyn A. Aquino</h1>
 
 
-<h1>About me🚀</h1>
+<h1>About me 🚀</h1>
 
 My name is Godwyn Aquino, and I have an aptitude for database administration and coding. I enjoy taking on challenging issues and coming up with tasteful fixes. I enrolled in the BS in Information Technology program, which marked the beginning of my tech career.
 
