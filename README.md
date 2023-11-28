@@ -1,4 +1,4 @@
-# 👨‍💻 Godwyn Aquino
+  # 👨‍💻 Godwyn Aquino
 
 Hi there! I'm Godwyn Aquino, a tech enthusiast with a passion for coding and database management.
 
@@ -14,10 +14,12 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 
 ## Certification
 
-- :trophy: Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate
-- :trophy: Oracle Cloud Data Management 2023 Certified Foundations Associate
-- :trophy: Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+- :trophy: [![AI Certified Foundations Associate](https://img.shields.io/badge/AI_Certified_Foundations_Associate-Oracle-%23F80000.svg?style=for-the-badge)](https://www.oracle.com/)
+- :trophy: [![Data Management Certified Foundations Associate](https://img.shields.io/badge/Data_Management_Certified_Foundations_Associate-Oracle-%23F80000.svg?style=for-the-badge)](https://www.oracle.com/)
+- :trophy: [![Cloud Infrastructure Certified Foundations Associate](https://img.shields.io/badge/Cloud_Infrastructure_Certified_Foundations_Associate-Oracle-%23F80000.svg?style=for-the-badge)](https://www.oracle.com/)
 - :trophy: SQL and Relational Databases 101
+
+
 
 ## Skill Sets
 
