@@ -25,6 +25,9 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 - **Programming:**
   - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  - ![PHP](https://img.shields.io/badge/PHP-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  
   
 - **Databases:**
   - :floppy_disk: IBM DB2 Cloud
