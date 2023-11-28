@@ -21,9 +21,18 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 
 ## Skill Sets
 
-- **Programming:** :coffee: Java, :computer: Javascript
-- **Databases:** :floppy_disk: IBM DB2 Cloud
-- **Tools:** :chart_with_upwards_trend: Lucidchart, :bar_chart: Jaspersoft Studio, :eclipse: Eclipse, :computer: HTML
+- **Programming:**
+  - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  
+- **Databases:**
+  - :floppy_disk: IBM DB2 Cloud
+
+- **Tools:**
+  - :chart_with_upwards_trend: Lucidchart
+  - :bar_chart: Jaspersoft Studio
+  - :eclipse: Eclipse
+  - :computer: HTML
 
 ## Connect with Me
 
