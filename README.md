@@ -1,16 +1,40 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://your-image-url.com/your-image.png" alt="Profile Image" width="200" height="200" />
+</p>
 
-<!--
-**WynCraftsTech/WynCraftsTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Godwyn Aquino
 
-Here are some ideas to get you started:
+🚀 Welcome to my GitHub profile! I'm Godwyn Aquino, a passionate coder with a flair for crafting elegant solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I thrive on tackling complex problems and enjoy working on projects that leverage my coding and database management skills.
+
+## Education
+
+- **BS Information Technology**
+  - New Era University
+  - 2021-Present
+
+## Certification
+
+- Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate
+- Oracle Cloud Data Management 2023 Certified Foundations Associate
+- Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+- SQL and Relational Databases 101
+
+## Skill Sets
+
+- **Programming:** Java, Javascript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Connect with Me
+
+- **LinkedIn:** [LinkedIn Profile](LinkedIn_profile_link)
+- **Email:** aquinogodwyn1@gmail.com
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
