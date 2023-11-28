@@ -6,7 +6,7 @@ Hi there! I'm Godwyn Aquino, a tech enthusiast with a passion for coding and dat
 
 I thrive on tackling complex problems and crafting elegant solutions. My journey in tech began with the BS Information Technology program.
 
-## Education
+## Education 📖
 
 - **BS Information Technology**
   - 💻BS Information Technology New Era University 2021-Present
@@ -20,7 +20,7 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 
 
 
-## Skill Sets
+## Skill Sets :toolbox:
 
 - **Programming:**
   - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
