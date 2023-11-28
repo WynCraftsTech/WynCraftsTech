@@ -1,10 +1,8 @@
   # 👨‍💻 Godwyn Aquino
 
 Hi there! I'm Godwyn Aquino, a tech enthusiast with a passion for coding and database management.
-
-![alt text]
+![img text]
 https://camo.githubusercontent.com/313e77b360cb7dcbb1986ab013a3beea328ca8a028ed0a047962d7ed136f7559/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c626f6f7473747261702c6d75692c68746d6c2c6373732c7673636f64652c6769746875622c6669676d612c7461696c77696e642c6769742c72
-
 ## About Me
 
 I thrive on tackling complex problems and crafting elegant solutions. My journey in tech began with the BS Information Technology program.
