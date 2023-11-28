@@ -2,6 +2,7 @@
 
 Hi there! I'm Godwyn Aquino, a tech enthusiast with a passion for coding and database management.
 
+[new icon: opensuse (original, original-wordmark, plain, plain-wordmark)](https://github.com/devicons/devicon/pull/1076)
 
 ## About Me
 
