@@ -3,7 +3,7 @@
 <img align= "right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"
 
 
-<h3 align="left" 🚀 About Me 
+##  🚀 About Me 
 My name is Godwyn Aquino, and I have a passion for database administration and coding. I enjoy taking on challenging issues and coming up with tasteful fixes. 
 I enrolled in the BS in Information Technology program, which marked the beginning of my tech career.
 
