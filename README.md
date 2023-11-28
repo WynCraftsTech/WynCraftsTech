@@ -38,11 +38,7 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
   - :eclipse: Eclipse
   - :computer: HTML
 
-(https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-(https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-(https://img.shields.io/badge/PHP-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-(https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-(https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ## Connect with Me
 
