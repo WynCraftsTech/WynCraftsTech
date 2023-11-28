@@ -9,8 +9,8 @@ My name is Godwyn Aquino, and I have a passion for database administration and c
 
 ## Education 📖
 
-  - BS Information Technology
-  - New Era University 2022-Present
+  - BS Information Technology 💻
+  - New Era University 2022 - Present 🏫
   
 
 
