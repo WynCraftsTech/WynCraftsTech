@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Profile Image" width="200" height="200" />
+  <img srcC:\Users\GODWYN\Pictures\Aquino,Godwyn A..jpg" alt="Profile Image" width="200" height="200" />
 </p>
 
 # Godwyn Aquino
