@@ -36,7 +36,7 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 - **Tools:**
   - :chart_with_upwards_trend: Lucidchart
   - :bar_chart: Jaspersoft Studio
- - :eclipse: [Eclipse](https://www.eclipse.org/)
+  - 👽 Eclipse
   - :computer: HTML
 
 
