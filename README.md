@@ -13,6 +13,8 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 
 
 
+
+
 ## Certification
 
 - ![AI Certified Foundations Associate](https://img.shields.io/badge/AI_Certified_Foundations_Associate-Oracle-%23F80000.svg?style=for-the-badge)(https://www.oracle.com/)
