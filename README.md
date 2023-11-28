@@ -44,7 +44,7 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 
 ## Connect with Me
 
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([LinkedIn_profile_link](https://github.com/WynCraftsTech))
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://github.com/WynCraftsTech))
 - **Email:** [![Email](https://img.shields.io/badge/Email-Envelope-red?style=for-the-badge&logo=mail.ru)](mailto:aquinogodwyn1@gmail.com)
 
 
