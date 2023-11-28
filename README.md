@@ -38,10 +38,7 @@ My name is Godwyn Aquino, and I have an aptitude for database administration and
   
   
 - **Databases:**
-
- <li>IBM DB2 Cloud <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6e489a5de86400b89cb450a0106d195784b727d7c3f29df47cee605a9eec2b30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4442322d626c75653f6c6f676f3d69626d"><img src="https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=for-the-badge&logo=IBM-Cloud&logoColor=white" alt="DB2 Icon" data-canonical-src="https://img.shields.io/badge/-DB2-blue?logo=ibm" style="max-width: 100%;"></a>
-     <l1>               
-
+<li>IBM DB2 Cloud <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6e489a5de86400b89cb450a0106d195784b727d7c3f29df47cee605a9eec2b30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4442322d626c75653f6c6f676f3d69626d"><img src="https://camo.githubusercontent.com/6e489a5de86400b89cb450a0106d195784b727d7c3f29df47cee605a9eec2b30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4442322d626c75653f6c6f676f3d69626d" alt="DB2 Icon" data-canonical-src="https://img.shields.io/badge/-DB2-blue?logo=ibm" style="max-width: 100%;"></a></li>
 
 - **Tools:**
   - :chart_with_upwards_trend: Lucidchart
