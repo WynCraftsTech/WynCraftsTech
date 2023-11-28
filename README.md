@@ -2,7 +2,7 @@
 
 Hi there! I'm Godwyn Aquino, a tech enthusiast with a passion for coding and database management.
 
-![Image Alt Text]C:\Users\GODWYN\AppData\Local\Temp\Rar$DIa3216.30328\GitHub_Logo_White.png
+
 
 
 
