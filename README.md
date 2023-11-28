@@ -4,7 +4,7 @@
 
 ## About Me
 
-I thrive on tackling complex problems and crafting elegant solutions. My journey in tech began with the BS Information Technology program.
+My name is Godwyn Aquino, and I have a passion for database administration and coding. I enjoy taking on challenging issues and coming up with tasteful fixes. I enrolled in the BS in Information Technology program, which marked the beginning of my tech career.
 
 ## Education 📖
 
