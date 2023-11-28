@@ -41,7 +41,6 @@ My name is Godwyn Aquino, and I have an aptitude for database administration and
  - ![IBM DB2 Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=for-the-badge&logo=IBM-Cloud&logoColor=white)
 
 
-
 - **Tools:**
   - :chart_with_upwards_trend: Lucidchart
   - :bar_chart: Jaspersoft Studio
