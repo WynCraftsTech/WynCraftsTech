@@ -9,8 +9,8 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 ## Education
 
 - **BS Information Technology**
-  - :rocket:[New Era University]
-  - 2021-Present
+  - 🏫New Era University
+  - 📅2021-Present
 
 ## Certification
 
