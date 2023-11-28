@@ -1,14 +1,10 @@
-<p align="center">
-  <img srcC:\Users\GODWYN\Pictures\Aquino,Godwyn A..jpg" alt="Profile Image" width="200" height="200" />
-</p>
+# 👨‍💻 Godwyn Aquino
 
-# Godwyn Aquino
-
-🚀 Welcome to my GitHub profile! I'm Godwyn Aquino, a passionate coder with a flair for crafting elegant solutions.
+Hi there! I'm Godwyn Aquino, a tech enthusiast with a passion for coding and database management.
 
 ## About Me
 
-I thrive on tackling complex problems and enjoy working on projects that leverage my coding and database management skills.
+I thrive on tackling complex problems and crafting elegant solutions. My journey in tech began with the BS Information Technology program.
 
 ## Education
 
@@ -18,23 +14,20 @@ I thrive on tackling complex problems and enjoy working on projects that leverag
 
 ## Certification
 
-- Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate
-- Oracle Cloud Data Management 2023 Certified Foundations Associate
-- Oracle Cloud Infrastructure 2023 Certified Foundations Associate
-- SQL and Relational Databases 101
+- :trophy: Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate
+- :trophy: Oracle Cloud Data Management 2023 Certified Foundations Associate
+- :trophy: Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+- :trophy: SQL and Relational Databases 101
 
 ## Skill Sets
 
-- **Programming:** Java, Javascript
-- **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Programming:** :coffee: Java, :computer: Javascript
+- **Databases:** :floppy_disk: IBM DB2 Cloud
+- **Tools:** :chart_with_upwards_trend: Lucidchart, :bar_chart: Jaspersoft Studio, :eclipse: Eclipse, :computer: HTML
 
 ## Connect with Me
 
-- **LinkedIn:** [LinkedIn Profile](LinkedIn_profile_link)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](LinkedIn_profile_link)
 - **Email:** aquinogodwyn1@gmail.com
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+
