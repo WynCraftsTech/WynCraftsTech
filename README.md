@@ -6,7 +6,7 @@
 My name is Godwyn Aquino, and I have an aptitude for database administration and coding. I enjoy taking on challenging issues and coming up with tasteful fixes. I enrolled in the BS in Information Technology program, which marked the beginning of my tech career.
 
 
-## Education 📖
+<h1>Education 📖</h1>
   
    <li><strong>BS Information Technology</strong>
 <ul dir="auto">
