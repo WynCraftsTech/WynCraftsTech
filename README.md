@@ -47,7 +47,8 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 <a href="https://fb.com/https://www.facebook.com/wyngodwyn13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wyngodwyn13" height="30" width="40" /></a>
 <a href="https://instagram.com/godwynnnnnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="godwynnnnnnn" height="30" width="40" /></a>
 </p>
-- 📫 How to reach me [![Email](https://img.shields.io/badge/Email-Envelope-red?style=for-the-badge&logo=mail.ru)](mailto:aquinogodwyn1@gmail.com)
+- 📫 How to reach me **Email:** [![Email](https://img.shields.io/badge/Email-Envelope-red?style=for-the-badge&logo=mail.ru)](mailto:aquinogodwyn1@gmail.com)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
