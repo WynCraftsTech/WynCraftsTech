@@ -11,6 +11,8 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 - **BS Information Technology**
   - 💻BS Information Technology New Era University 2021-Present
 
+
+
 ## Certification
 
 - ![AI Certified Foundations Associate](https://img.shields.io/badge/AI_Certified_Foundations_Associate-Oracle-%23F80000.svg?style=for-the-badge)(https://www.oracle.com/)
