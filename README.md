@@ -26,7 +26,7 @@ My name is Godwyn Aquino, and I have an aptitude for database administration and
 
 
 
-## Skill Sets :toolbox: "https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"
+## Skill Sets :toolbox: ("https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif")
 
 - **Programming:**
   - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
