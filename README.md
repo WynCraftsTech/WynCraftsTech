@@ -48,7 +48,8 @@ My name is Godwyn Aquino, and I have a passion for database administration and c
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://github.com/wyncraftstech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/wyncraftstech" height="30" width="40" /></a>
+
+  <a href="https://linkedin.com/in/https://github.com/wyncraftstech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/wyncraftstech" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/wyngodwyn13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wyngodwyn13" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/godwyyynnnnnn/?fbclid=iwar207tmbmcjwdg8vjcrwz6xvxpmy6ygooizone50s0beme5be0qhlfquvgc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/godwyyynnnnnn/?fbclid=iwar207tmbmcjwdg8vjcrwz6xvxpmy6ygooizone50s0beme5be0qhlfquvgc" height="30" width="40" /></a>
 </p>
