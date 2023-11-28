@@ -50,9 +50,7 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyncraftstech&show_icons=true&locale=en&layout=compact" alt="wyncraftstech" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyncraftstech&show_icons=true&locale=en" alt="wyncraftstech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyncraftstech&" alt="wyncraftstech" /></p
 
 
 
