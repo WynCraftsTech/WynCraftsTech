@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Godwyn A. Aquino</h1>
-<img align= "right" alt="Coding" width="300" src=https://i.gifer.com/fxac.gif
+<img align= "right" alt="Coding" width="300" src=<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/fxac" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">
 
 
 ## About Me
