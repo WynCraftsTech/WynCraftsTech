@@ -66,7 +66,7 @@ My name is Godwyn Aquino, and I have an aptitude for database administration and
 
 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyncraftstech&show_icons=true&locale=en" alt="wyncraftstech" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyncraftstech&" alt="wyncraftstech" /></p>
 
 
