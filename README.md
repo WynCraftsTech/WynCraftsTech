@@ -1,4 +1,4 @@
-![logo](https://camo.githubusercontent.com/d8a7b68700e343761bb04aee7c848aade21227cdae9e9ce9f1dac0d7c88df23d/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c7563696f2d68656c6c6f2d776f726c642e6769663f31363135363432383737)
+![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--HPdCp6wU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fm9dtfef0828cdghi9aq.gif)
 <h1 align="center">Hi 👋, I'm Godwyn A. Aquino</h1>
 
 
