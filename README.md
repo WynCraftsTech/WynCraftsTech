@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Godwyn A. Aquino</h1>
 
 <h1>About me 🚀</h1>
-My name is Godwyn Aquino, and I possess a strong proficiency in database administration and coding. 
-
+My name is Godwyn Aquino. 20 years old, I regard coding as an art form, fusing logic and creativity to create beautiful solutions to challenging issues. I have a strong interest in producing readable, well-maintained code that is also enjoyable to read. My journey began here.
 <h1>Education 📖</h1>
   
    <li><strong>BS Information Technology</strong>
