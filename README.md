@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Godwyn A. Aquino</h1>
 
 <h1>About me 🚀</h1>
-My name is Godwyn Aquino, and I possess a strong proficiency in database administration and coding. I find great satisfaction in tackling complex issues and devising elegant solutions. My journey in the field of technology commenced with my enrollment in the Bachelor of Science in Information Technology program, marking the foundational step in my career trajectory.
-
+My name is Godwyn Aquino, and I possess a strong proficiency in database administration and coding. 
 
 <h1>Education 📖</h1>
   
