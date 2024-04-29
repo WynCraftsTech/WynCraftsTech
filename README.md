@@ -36,6 +36,8 @@ My name is Godwyn Aquino, and I possess a strong proficiency in database adminis
   - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   - ![PHP](https://img.shields.io/badge/PHP-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   - ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  - [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
   
   
 - **Databases:**
