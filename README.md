@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Godwyn A. Aquino</h1>
 
 <h1>About me 🚀</h1>
-My name is Godwyn Aquino. 20 years old, I regard coding as an art form, fusing logic and creativity to create beautiful solutions to challenging issues. I have a strong interest in producing readable, well-maintained code that is also enjoyable to read. My journey began here.
+I am Godwyn Aquino, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 <h1>Education 📖</h1>
   
    <li><strong>BS Information Technology</strong>
@@ -21,8 +21,6 @@ My name is Godwyn Aquino. 20 years old, I regard coding as an art form, fusing l
 -  [![NoSQL and DBaaS 101](https://img.shields.io/badge/NoSQL_and_DBaaS_101-Certificate-blue)](https://courses.cognitiveclass.ai/certificates/af320529a44c4aaa8835a03b7407531c)
 
  
-
-
 
 
 
