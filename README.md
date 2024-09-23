@@ -21,7 +21,7 @@ I am Godwyn Aquino, with a flair for coding and database management skills. I th
 - [ ![SQL and Relational Databases 101](https://img.shields.io/badge/SQL_and_Relational_Databases_101-Database-%234169E1.svg?style=for-the-badge)](https://courses.cognitiveclass.ai/certificates/02dbdde588234df7b2f33e9796c160c0)
 -  [![NoSQL and DBaaS 101](https://img.shields.io/badge/NoSQL_and_DBaaS_101-Certificate-blue)](https://courses.cognitiveclass.ai/certificates/af320529a44c4aaa8835a03b7407531c)
 
-[![Ethical Hacker Certified](https://www.credly.com/badges/ab563187-0a48-4d9b-bd2b-ce3d27932a96)](https://www.credly.com/badges/ab563187-0a48-4d9b-bd2b-ce3d27932a96)
+- [![Ethical Hacker Certified](https://www.credly.com/badges/ab563187-0a48-4d9b-bd2b-ce3d27932a96)](https://www.credly.com/badges/ab563187-0a48-4d9b-bd2b-ce3d27932a96)
 
  
 
