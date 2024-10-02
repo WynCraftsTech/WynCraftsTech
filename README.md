@@ -1,5 +1,5 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--HPdCp6wU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fm9dtfef0828cdghi9aq.gif)
-<h1 align="center">Hi, I'm Godwyn A. Aquino</h1>
+
 
 <h1>About me 🚀</h1>
 My name is Godwyn Aquino, and I have an interest for database administration and coding. I enjoy taking on challenging issues and coming up with tasteful fixes. I enrolled in the BS in Information Technology program, which marked the beginning of my tech career.
