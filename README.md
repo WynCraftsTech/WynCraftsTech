@@ -35,7 +35,7 @@ My name is Godwyn Aquino, and I have an interest for database administration and
 
 
 
-## Skill Sets :toolbox: 
+## :toolbox: Skill Sets 
 
 - **Programming:**
   - [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
