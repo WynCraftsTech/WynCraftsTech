@@ -46,7 +46,7 @@ My name is Godwyn Aquino, and I have an interest for database administration and
 
   
   
--Databases
+ -Databases:
   -![IBM DB2 Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=for-the-badge&logo=IBM-Cloud&logoColor=white)
   -[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
