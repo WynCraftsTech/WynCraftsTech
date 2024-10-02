@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--HPdCp6wU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fm9dtfef0828cdghi9aq.gif)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--HPdCp6wU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fm9dtfef0828cdghi9aq.gif)  alt="MasterHead" width="800" />
 
 
 <h1>About me 🚀</h1>
