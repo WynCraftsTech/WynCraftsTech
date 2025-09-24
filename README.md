@@ -20,17 +20,18 @@ My name is Godwyn Aquino, and I have an interest for database administration and
 
 - [![AI Certified Foundations Associate](https://img.shields.io/badge/AI_Certified_Foundations_Associate-Oracle-%23F80000.svg?style=for-the-badge)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BC18F9E7FA2CF32ECEC9D91EB416FA6BD88C16910607D930E4629545DC5ED23C&fbclid=IwAR0ZisfOvkFB7Sm26y9n59UcQsEuWcO8wJfLqS3snma_bkakh1-TrFtCKZQ)
 
--  [![Data Management Certified Foundations Associate](https://img.shields.io/badge/Data_Management_Certified_Foundations_Associate-Oracle-%23F80000.svg?style=for-the-badge)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4C920BD03F6CF80A4A0B42118741B53CE1C93A02B9D62998B847605FC75A8B7D&fbclid=IwAR1NKhkfFWObHRLynLEjxpR-3lyfics5F7mP1sVbo6_CAOcCLb8Lc07ur40)
+- [![Data Management Certified Foundations Associate](https://img.shields.io/badge/Data_Management_Certified_Foundations_Associate-Oracle-%23F80000.svg?style=for-the-badge)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4C920BD03F6CF80A4A0B42118741B53CE1C93A02B9D62998B847605FC75A8B7D&fbclid=IwAR1NKhkfFWObHRLynLEjxpR-3lyfics5F7mP1sVbo6_CAOcCLb8Lc07ur40)
 
 - [![Cloud Infrastructure Certified Foundations Associate](https://img.shields.io/badge/Cloud_Infrastructure_Certified_Foundations_Associate-Oracle-%23F80000.svg?style=for-the-badge)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A0444E9FF5888CF5504ECADD4B5BB22FF781A2D9E7002789FA217F0F960EB7F6)
 
-- [ ![SQL and Relational Databases 101](https://img.shields.io/badge/SQL_and_Relational_Databases_101-Database-%234169E1.svg?style=for-the-badge)](https://courses.cognitiveclass.ai/certificates/02dbdde588234df7b2f33e9796c160c0)
+- [![SQL and Relational Databases 101](https://img.shields.io/badge/SQL_and_Relational_Databases_101-Database-%234169E1.svg?style=for-the-badge)](https://courses.cognitiveclass.ai/certificates/02dbdde588234df7b2f33e9796c160c0)
 
--  [![NoSQL and DBaaS 101](https://img.shields.io/badge/NoSQL_and_DBaaS_101-Certificate-blue)](https://courses.cognitiveclass.ai/certificates/af320529a44c4aaa8835a03b7407531c)
+- [![NoSQL and DBaaS 101](https://img.shields.io/badge/NoSQL_and_DBaaS_101-CognitiveClass-blue?style=for-the-badge)](https://courses.cognitiveclass.ai/certificates/af320529a44c4aaa8835a03b7407531c)
 
-- [![Ethical Hacker from Cisco Networking Academy](https://img.shields.io/badge/Ethical_Hacker_from_Cisco_Networking_Academy-Credly-%23F80000.svg?style=for-the-badge)](https://www.credly.com/badges/ab563187-0a48-4d9b-bd2b-ce3d27932a96)
+- [![Ethical Hacker from Cisco Networking Academy](https://img.shields.io/badge/Ethical_Hacker-Cisco_Networking_Academy-%23F80000.svg?style=for-the-badge)](https://www.credly.com/badges/ab563187-0a48-4d9b-bd2b-ce3d27932a96)
 
-- [![OWASP API Security Top 10](https://www.credly.com/badges/fb7f3d7f-7bc4-4fc4-b82e-d63191c6e7a0/public_url)
+- [![OWASP API Security Top 10](https://img.shields.io/badge/OWASP_API_Security_Top_10-Training-blueviolet?style=for-the-badge)](https://www.credly.com/badges/fb7f3d7f-7bc4-4fc4-b82e-d63191c6e7a0/public_url)
+
 
  
 
