@@ -30,7 +30,7 @@ My name is Godwyn Aquino, and I have an interest for database administration and
 
 - [![Ethical Hacker from Cisco Networking Academy](https://img.shields.io/badge/Ethical_Hacker-Cisco_Networking_Academy-%23F80000.svg?style=for-the-badge)](https://www.credly.com/badges/ab563187-0a48-4d9b-bd2b-ce3d27932a96)
 
-- [![OWASP API Security Top 10](https://img.shields.io/badge/OWASP_API_Security_Top_10-Training-blueviolet?style=for-the-badge)](https://www.credly.com/badges/fb7f3d7f-7bc4-4fc4-b82e-d63191c6e7a0/public_url)
+- [![OWASP API Security Top 10](https://img.shields.io/badge/OWASP_API_Security_Top_10-APISecurity-blueviolet?style=for-the-badge)](https://www.credly.com/badges/fb7f3d7f-7bc4-4fc4-b82e-d63191c6e7a0/public_url)
 
 
  
