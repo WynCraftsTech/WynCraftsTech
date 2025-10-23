@@ -57,10 +57,10 @@ My name is Godwyn Aquino, and I have an interest for database administration and
 
 
 - **Tools:**
-  - :chart_with_upwards_trend: Lucidchart
-  - :bar_chart: Jaspersoft Studio
+  - Lucidchart
+  - Jaspersoft Studio
   - Eclipse
-  - :computer: HTML
+  - HTML
 
 
 <h3 align="left"> Connect with me</h3>
