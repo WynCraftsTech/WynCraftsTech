@@ -63,7 +63,7 @@ My name is Godwyn Aquino, and I have an interest for database administration and
   - :computer: HTML
 
 
-<h3 align="left"> :computer: Connect with me</h3>
+<h3 align="left"> Connect with me</h3>
 <p align="left"> 
 <a href="https://www.linkedin.com/in/godwyn-aquino-8a57952a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/godwyn-aquino-8a57952a3/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/wyngodwyn13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wyngodwyn13" height="30" width="40" /></a>
