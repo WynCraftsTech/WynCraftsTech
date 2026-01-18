@@ -40,7 +40,7 @@ I am a passionate coder with a knack for database management, always eager to ta
   <a href="mailto:aquinogodwyn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="https://github.com/WynCraftsTech">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/godwynaquino">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
