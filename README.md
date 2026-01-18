@@ -39,7 +39,6 @@ I am a passionate coder with a knack for database management, always eager to ta
 <div align="left">
   <a href="mailto:aquinogodwyn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
   <a href="https://www.linkedin.com/in/godwynaquino">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
