@@ -37,13 +37,10 @@ I am a passionate coder with a knack for database management, always eager to ta
 ## 🔗 Let's Connect
 
 <div align="left">
-  <a href="mailto:patrickbayawak258@gmail.com">
+  <a href="mailto:aquinogodwyn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="https://facebook.com/pyke69420">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://github.com/geoxylitiz">
+  <a href="https://github.com/WynCraftsTech">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
