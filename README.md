@@ -14,16 +14,17 @@ I am a TALL Stack developer focused on building clean, responsive, and efficient
 
 ## Certifications
 - **OWASP API Security Top 10**  
-  🔗 https://www.credly.com/badges/fb7f3d7f-7bc4-4fc4-b82e-d63191c6e7a0/public_url
+  [View Credential](https://www.credly.com/badges/fb7f3d7f-7bc4-4fc4-b82e-d63191c6e7a0/public_url)
 
 - **Ethical Hacker**  
-  🔗 https://www.credly.com/badges/ab563187-0a48-4d9b-bd2b-ce3d27932a96
+  [View Credential](https://www.credly.com/badges/ab563187-0a48-4d9b-bd2b-ce3d27932a96)
 
 - **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**  
-  🔗 https://catalog-education.oracle.com/ords/certview/sharebadge?id=BC18F9E7FA2CF32ECEC9D91EB416FA6BD88C16910607D930E4629545DC5ED23C
+  [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BC18F9E7FA2CF32ECEC9D91EB416FA6BD88C16910607D930E4629545DC5ED23C)
 
 - **Oracle Cloud Data Management 2023 Certified Foundations Associate**  
-  🔗 https://catalog-education.oracle.com/ords/certview/sharebadge?id=4C920BD03F6CF80A4A0B42118741B53CE1C93A02B9D62998B847605FC75A8B7D
+  [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4C920BD03F6CF80A4A0B42118741B53CE1C93A02B9D62998B847605FC75A8B7D)
+
 
 
 ---
