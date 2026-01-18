@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=F7280A&width=435&lines=Godwyn+A.+Aquino" alt="Typing SVG" />
+  </a>
+</p>
+
 <br>
 <div align="left">
 I am a passionate and eager-to-learn TALL Stack developer, committed to building efficient and well-structured web applications. My journey in technology began when I enrolled in the BS Information Technology program.
