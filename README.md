@@ -32,7 +32,7 @@ I am a passionate and eager to learn TALL Stack developer, committed to building
 
 ---
 
-## 💻 Languages and Tools
+##Languages and Tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="40"/>&nbsp;
@@ -46,7 +46,7 @@ I am a passionate and eager to learn TALL Stack developer, committed to building
 
 ---
 
-## 🔗 Let's Connect
+##Let's Connect
 
 <div align="left">
   <a href="mailto:aquinogodwyn@gmail.com">
