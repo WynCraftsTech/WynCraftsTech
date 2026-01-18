@@ -5,14 +5,14 @@ I am a TALL Stack developer focused on building clean, responsive, and efficient
 
 <br>
 
-## 🎓 Education
+## Education
 
 - **BS Information Technology**  
   [New Era University](https://www.neu.edu.ph/)
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 ---
 
