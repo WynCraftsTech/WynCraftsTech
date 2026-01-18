@@ -42,7 +42,10 @@ I am a passionate and eager to learn TALL Stack developer, committed to building
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" width="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/73445289?s=200&v=4" title="Spatie" width="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40"/>&nbsp;
+  <img src="https://laravel.com/img/logomark.min.svg" title="Laravel Breeze" width="40"/>
 </div>
+
 
 ---
 
