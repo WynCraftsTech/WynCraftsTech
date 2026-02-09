@@ -21,7 +21,7 @@ I am passionate and eager to learn, committed to building efficient and modern w
 - **System Developer Intern**  
   **Nephila Web** · Internship  
   *Oct 13, 2025 – Present*  
-  Quezon City, National Capital Region, Philippines · On-site
+  Quezon City, National Capital Region, Philippines
 
 
 ## Certifications
