@@ -16,22 +16,12 @@ I am passionate and eager to learn, committed to building efficient and modern w
 - **BS Information Technology**  
   [New Era University](https://www.neu.edu.ph/)
 
----
-
 ## Experience
 
 - **System Developer Intern**  
   **Nephila Web** · Internship  
   *Oct 2025 – Present · 5 mos*  
   Quezon City, National Capital Region, Philippines · On-site  
-
-  - Assisted in developing and maintaining web-based systems using **Laravel** and the **TALL Stack** (Tailwind CSS, Alpine.js, Laravel, Livewire).
-  - Collaborated with senior developers to implement new features, resolve bugs, and enhance system performance.
-  - Worked with REST APIs, database management, and role-based access control.
-  - Participated in code reviews, testing, and documentation to ensure clean and maintainable code.
-  - Gained hands-on experience in real-world system development and agile team workflows.
-
----
 
 ## Certifications
 - [**OWASP API Security Top 10**](https://www.credly.com/badges/fb7f3d7f-7bc4-4fc4-b82e-d63191c6e7a0/public_url)
