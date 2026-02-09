@@ -21,7 +21,7 @@ I am passionate and eager to learn, committed to building efficient and modern w
 - **System Developer Intern**  
   **Nephila Web** · Internship
   **Oct 13, 2025 - Present**
-  Quezon City, National Capital Region, Philippines · On-site  
+  **Quezon City, National Capital Region, Philippines · On-site**
 
 ## Certifications
 - [**OWASP API Security Top 10**](https://www.credly.com/badges/fb7f3d7f-7bc4-4fc4-b82e-d63191c6e7a0/public_url)
