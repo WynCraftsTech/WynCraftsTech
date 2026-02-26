@@ -6,7 +6,7 @@
 
 <br>
 <div align="left">
-I am passionate and eager to learn, committed to building efficient and modern web applications using the TALL Stack. My journey in technology began while studying BS Information Technology.
+I am passionate coder and eager to learn, committed to building efficient and modern web applications using the TALL Stack. My journey in technology began while studying BS Information Technology.
 </div>
 
 <br>
