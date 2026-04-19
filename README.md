@@ -22,20 +22,12 @@ I Software and eager to learn, committed to building efficient and modern web ap
   **Nephila Web Technology Inc.**  
   *October 13, 2025 – March 2026*  
   Quezon City, National Capital Region, Philippines  
-  - Assisted in developing and maintaining internal web applications using Laravel and PHP  
-  - Built and optimized RESTful APIs for system integration  
-  - Collaborated with the development team using Git for version control  
-  - Applied WAMP stack in deploying and testing web solutions  
-
+ 
 - **Software Developer Apprentice**  
   **Nephila Web Technology Inc.**  
   *March 2026 – Present*  
   Quezon City, National Capital Region, Philippines  
-  - Developing scalable web applications using Laravel and the TALL stack  
-  - Implementing dynamic UI components with Livewire and Alpine.js  
-  - Designing responsive interfaces with Tailwind CSS  
-  - Optimizing application performance using Redis caching  
-  - Writing clean, maintainable, and reusable code following best practices  
+ 
 
 
 ## Certifications
