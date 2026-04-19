@@ -23,10 +23,10 @@ I Software and eager to learn, committed to building efficient and modern web ap
   *Oct 13, 2025 – March 2026*  
   Quezon City, National Capital Region, Philippines
 
-- **Sofware Developer Apprentice**
+  **Sofware Developer Apprentice**
   **Nephila Web Technology Inc.** .
   *March 2026 - Present*
-   Quezon City, National Capital Region, Philippines
+  Quezon City, National Capital Region, Philippines
 
 
 ## Certifications
