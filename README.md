@@ -6,7 +6,7 @@
 
 <br>
 <div align="left">
-I am passionate coder and eager to learn, committed to building efficient and modern web applications using the TALL Stack. My journey in technology began while studying BS Information Technology.
+I Software and eager to learn, committed to building efficient and modern web applications using the WAMP and TALL Stack. My journey in technology began while studying BS Information Technology.
 </div>
 
 <br>
@@ -19,9 +19,14 @@ I am passionate coder and eager to learn, committed to building efficient and mo
 ## Experience
 
 - **System Developer Intern**  
-  **Nephila Web** · Internship  
-  *Oct 13, 2025 – Present*  
+  **Nephila Web Technology Inc.** ·
+  *Oct 13, 2025 – March 2026*  
   Quezon City, National Capital Region, Philippines
+
+- **Sofware Developer Apprentice**
+  **Nephila Web Technology Inc.** .
+  *March 2026 - Present*
+   Quezon City, National Capital Region, Philippines
 
 
 ## Certifications
